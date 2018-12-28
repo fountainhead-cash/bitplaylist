@@ -1,0 +1,10 @@
+{
+	"v": 3,
+	"q": {
+		"find": { "in.e.a": "qzzzzzy9qx93jrvh4eguejk96uexe590dyx35yxe3j", "out.h1": "0000B006" },
+		"limit": 9999
+	},
+	"r": {
+		"f": "[ .[] | { txid: .tx.h, timestamp: (if .blk then .blk.t else null end), address: .in[0].e.a, prefix: .out[0].h1, action: .out[0].s2, value: .out[0].s3, content: .out[0].s4 }]"
+	}
+}
