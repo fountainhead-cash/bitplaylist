@@ -36,3 +36,4 @@ Query + processing to transform the query result.
 Let's add bitquery for some bitcoin apps here (Please feel free to add your own as well):
 
 1. [Memo.cash](apps/memo.json): All the protocol implementations of Memo.cash, written in Bitquery
+1. [Bookchain.cash](apps/bookchain.json): Get content from bookchain.cash
