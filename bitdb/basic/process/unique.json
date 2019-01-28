@@ -1,0 +1,9 @@
+{
+  "v": 3,
+  "q": {
+    "find": {"out.e.a":"qz504rd58pvpvnk3ktnl946l6xa2adgwns78mzfnam"},
+    "limit": 1000
+  },"r": {
+    "f": "[.[] | .in[] | .e  | {sender: .a}] | unique"
+  }
+}
