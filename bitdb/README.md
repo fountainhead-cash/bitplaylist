@@ -28,6 +28,7 @@ Query + processing to transform the query result.
 - [map](basic/process/map.json): Regular mapping function
 - [Construct String](basic/process/string_construction.json): String construction
 - [String interpolation](basic/process/string_interpolation.json): Build strings with string interpolation
+- [Unique](basic/process/unique.json): Output only unique (non-duplicate) strings
 
 ---
 
