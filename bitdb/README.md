@@ -15,8 +15,11 @@ Just basic queries with no processing step
 - [OP_RETURN TX](basic/query/opreturn_tx.json): Find only OP_RETURN transactions
 - [Projection](basic/query/projection.json): Use MongoDB's `project` operator to narrow down attributes
 - [Query by address](basic/query/query_by_address.json): Query transactions by address
+- [Query by address without input](basic/query/query_by_address_without_input.json): Query transactions by address that don't contain an input to address
+- [Query by address reverse order](basic/query/query_by_address_reverse_order.json): Query transactions by address, but get them in reverse order
 - [Query by multiple addresses](basic/query/query_by_multi_address.json): Query transactions by both incoming and outgoing addresses
 - [Full text search](basic/query/regex_full_text_search.json): Perform full text search
+- [Match multiple values inside input](basic/query/match_multiple_values_inside_input.json): Finds transactions which require multiple items to be matched within an input at same time.
 
 ### 2. Query + Process
 

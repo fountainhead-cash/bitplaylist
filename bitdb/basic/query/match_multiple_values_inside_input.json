@@ -1,0 +1,14 @@
+{
+  "v": 3,
+  "q": {
+    "find": {
+      "in": {
+        "$elemMatch": {
+          "e.h": "6aa56d7e62c20121cf3e1cf8711ba274da5dd53a6dbfd1fd8ca7fba9fff76e09",
+          "e.i": 1
+        }
+      }
+    },
+    "limit": 10
+  }
+}

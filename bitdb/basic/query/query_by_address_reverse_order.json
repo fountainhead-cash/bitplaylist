@@ -1,0 +1,10 @@
+{
+  "v": 3,
+  "q": {
+    "find": {
+      "in.e.a": "qq4kp3w3yhhvy4gm4jgeza4vus8vpxgrwc90n8rhxe"
+    },
+    "sort": {"blk.i": 1},
+    "limit": 10
+  }
+}
