@@ -19,6 +19,7 @@ Just basic queries with no processing step
 - [Query by address reverse order](basic/query/query_by_address_reverse_order.json): Query transactions by address, but get them in reverse order
 - [Query by multiple addresses](basic/query/query_by_multi_address.json): Query transactions by both incoming and outgoing addresses
 - [Full text search](basic/query/regex_full_text_search.json): Perform full text search
+- [Match multiple values inside input](basic/query/match_multiple_values_inside_input.json): Finds transactions which require multiple items to be matched within an input at same time.
 
 ### 2. Query + Process
 
