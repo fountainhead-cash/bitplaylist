@@ -20,6 +20,7 @@ Just basic queries with no processing step
 - [Query by multiple addresses](basic/query/query_by_multi_address.json): Query transactions by both incoming and outgoing addresses
 - [Full text search](basic/query/regex_full_text_search.json): Perform full text search
 - [Match multiple values inside input](basic/query/match_multiple_values_inside_input.json): Finds transactions which require multiple items to be matched within an input at same time.
+- [Count Transaction Per Block in Time Range](basic/query/count_transactions_in_block_range.json): Counts number of transactions in blocks between two timestamps.
 
 ### 2. Query + Process
 
